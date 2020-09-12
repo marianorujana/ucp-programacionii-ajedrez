@@ -21,6 +21,8 @@ namespace Ajedrez
             //seteamos el ocupante
             c1.SetOcupante(p1);
             Console.WriteLine("La celda tiene el ocupante" + c1.GetOcupante().ToString());
+
+            //Otro cambio desde el vs code
         }
     }
 }
