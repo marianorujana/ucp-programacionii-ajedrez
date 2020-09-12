@@ -1,0 +1,11 @@
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.exe
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.deps.json
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.runtimeconfig.json
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.runtimeconfig.dev.json
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.dll
+D:\UCP\Programacion II\Ajedrez\bin\Debug\netcoreapp3.1\Ajedrez.pdb
+D:\UCP\Programacion II\Ajedrez\obj\Debug\netcoreapp3.1\Ajedrez.csprojAssemblyReference.cache
+D:\UCP\Programacion II\Ajedrez\obj\Debug\netcoreapp3.1\Ajedrez.AssemblyInfoInputs.cache
+D:\UCP\Programacion II\Ajedrez\obj\Debug\netcoreapp3.1\Ajedrez.AssemblyInfo.cs
+D:\UCP\Programacion II\Ajedrez\obj\Debug\netcoreapp3.1\Ajedrez.dll
+D:\UCP\Programacion II\Ajedrez\obj\Debug\netcoreapp3.1\Ajedrez.pdb
